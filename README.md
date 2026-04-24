@@ -1,4 +1,14 @@
-## Hi there 👋
+🎓 Undergraduate student studying **Computer Science**  
+🎣 Beginner fisherman — Perch, Sunfish, Pike
+💻 Student learning to code   
+🐠 Fascinated by the ocean and everything in it  
+
+## What I'm Learning
+
+
+## Fun Facts
+- I'd rather be fishing 🎣
+- I'm learning to make computers as smart as fish are elusive
 
 <!--
 **Rayzar142/Rayzar142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
