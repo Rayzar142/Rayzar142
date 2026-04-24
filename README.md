@@ -1,9 +1,6 @@
 🎓 Undergraduate student studying **Computer Science**  
 🎣 Beginner fisherman — Perch, Sunfish, Pike
 
-💻 Student learning to code   
-🐠 Fascinated by the ocean and everything in it  
-
 ## What I'm Learning
 
 
