@@ -1,6 +1,6 @@
 🎓 Undergraduate student studying Computer Science
 
-🎣 Beginner fisherman — Perch, Sunfish, Pike
+🎣 Beginner fisherman — Perch, Sunfish, Bass, Pike
 
 ## What I'm Learning ##
 🤖 Exploring machine learning concepts — built a small fish species classifier (Sunfish vs Perch) using fastai, deployed on Hugging Face
