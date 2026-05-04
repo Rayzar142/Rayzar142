@@ -7,6 +7,7 @@
 
 ## Fun Facts ##
 I'd rather be fishing 🎣
+
 I debug code the same way I fish — a lot of waiting and occasional excitement
 
 <!--
