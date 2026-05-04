@@ -1,12 +1,12 @@
-🎓 Undergraduate student studying **Computer Science**  
+🎓 Undergraduate student studying Computer Science
 🎣 Beginner fisherman — Perch, Sunfish, Pike
 
-## What I'm Learning
+## What I'm Learning ##
+🤖 Exploring machine learning concepts — built a small fish species classifier (Sunfish vs Perch) using fastai, deployed on Hugging Face
 
-
-## Fun Facts
-- I'd rather be fishing 🎣
-- I'm learning to make computers as smart as fish are elusive
+## Fun Facts ##
+I'd rather be fishing 🎣
+I debug code the same way I fish — a lot of waiting and occasional excitement
 
 <!--
 **Rayzar142/Rayzar142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
